@@ -7,5 +7,5 @@ In my free-time, I like to improve my trading strategies and improve my PC gamin
 ## Find me around the web! 🌎:
 
 - I am currently working on: <a href= "https://github.com/ChiragThesia"> GitHub Pinned </a>
-- Updates on my career:<a href="https://www.linkedin.com/in/chiragthesia/"></a>
+- Updates on my career: <a href="https://www.linkedin.com/in/chiragthesia/">LinkedIn</a>
 
