@@ -1,8 +1,9 @@
 # Hi, I am Chirag Thesia! 👋🏾🧑🏽‍💻📈
 
-I am a Full Stack Developer with knowledge in React, Node, JS, Python, SQL and NOSQL DBs. I have also worked with SOAP, Rest, and GraphQL APIs. Recently started work on ML based Journaling application. 
+I love F1 (Go McLaren) and I love buildilng products that people get obsessed with. 
 
-In my free-time, I like to improve my trading strategies and improve my PC gaming skills.
+Languages: Javascript/TypeScript| Java | Python | SQL | SPARQL | RDF | Swift| GO
+Tools: React | Node | DropWizard | AWS (Certification in Progress) | Django | MongoDB | PostgreSQL | REST | GraphQL | Langchain | TensorFlow 
 
 ## Find me around the web! 🌎:
 
