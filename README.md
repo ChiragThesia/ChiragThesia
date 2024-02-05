@@ -7,6 +7,6 @@ Tools: React | Node | DropWizard | AWS (Certification in Progress) | Django | Mo
 
 ## Find me around the web! 🌎:
 
-- I am currently working on: <a href= "https://github.com/ChiragThesia/All-in-1-Journal-"> All In 1 Journal </a>
+- I am currently working on: <a href= "https://data.world/"> data.world building the best damn data platform </a>
 - Updates on my career: <a href="https://www.linkedin.com/in/chiragthesia/">LinkedIn</a>
 
